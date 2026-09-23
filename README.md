@@ -60,4 +60,9 @@ Para garantir respostas precisas e alinhadas ao rigor do setor público, foram t
 
 O **José Heraldo** foi disponibilizado via Streamlit através do link em modo visualizador do NotebookLM, garantindo acesso rápido e seguro aos gestores municipais sem comprometer a integridade da base oficial de dados.
 
+## 🚀 Acesso ao Caderno Temático
+
+- 🔗 **Link de Acesso ao NotebookLM:** [Acessar Consultor José Heraldo](https://notebook.google.com/notebook/f0ee2e08-73b6-4cb1-b9c4-96754b34fd86/preview)
+
+
 
